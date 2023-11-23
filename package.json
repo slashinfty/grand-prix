@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Tournament manager in the command line ",
   "bin": {
-    "grand-prix": "./bin/index.js"
+    "grand-prix": "bin/index.js"
   },
   "type": "module",
   "repository": {
