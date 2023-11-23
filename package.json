@@ -1,5 +1,5 @@
 {
-  "name": "@slashinfty/grand-prix",
+  "name": "grand-prix",
   "version": "0.1.0",
   "description": "Tournament manager in the command line ",
   "bin": {
