@@ -1,0 +1,31 @@
+{
+  "name": "@slashinfty/grand-prix",
+  "version": "0.1.0",
+  "description": "Tournament manager in the command line ",
+  "bin": {
+    "grand-prix": "./bin/index.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slashinfty/grand-prix.git"
+  },
+  "keywords": [
+    "tournament",
+    "terminal",
+    "command-line"
+  ],
+  "author": "Matt Braddock",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/slashinfty/grand-prix/issues"
+  },
+  "homepage": "https://github.com/slashinfty/grand-prix#readme",
+  "dependencies": {
+    "ascii-table3": "^0.9.0",
+    "chalk": "^5.3.0",
+    "figlet": "^1.7.0",
+    "readline-sync": "^1.4.10",
+    "tournament-organizer": "^3.4.1"
+  }
+}
