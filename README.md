@@ -11,7 +11,7 @@ Run tournaments from the command line!
 
 ## Installation
 ```
-npm i -g grand-prix
+npm i -g @slashinfty/grand-prix
 ```
 
 Launch it with `grand-prix` in the command line.
